@@ -1,0 +1,12 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "countFiles": "./module_4/task_1/countfiles.sh",
+    "freeSpace": "./module_4/task_1/freespace.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
